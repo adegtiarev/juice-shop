@@ -1,3 +1,24 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Project: https://owasp-juice.shop
+*    Release: https://github.com/juice-shop/juice-shop/releases/tag/v12.10.2
+*    Source File: redirectCryptoCurrencyChallenge_1.ts
+*    
+*    Copyrights:
+*      copyright © by bjoern kimminich 2014-2021
+*      copyright (c) 2014-2021 bjoern kimminich
+*    
+*    Licenses:
+*      MIT License
+*      SPDXId: MIT
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 export const redirectAllowlist = new Set([
   'https://github.com/bkimminich/juice-shop',
   'https://explorer.dash.org/address/Xr556RzuwX6hg5EGpkybbv5RanJoZN17kW',
