@@ -1,3 +1,23 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Project: booksin3d.wordpress.com
+*    Release: https://github.com/AlinCiocan/BooksIn3D/releases/tag/master-80e0579
+*    Source File: OrbitAndPanControls.js
+*    
+*    Copyrights:
+*      copyright (c) 2014 alinciocan
+*    
+*    Licenses:
+*      Graphics Gems License
+*      SPDXId: N/A
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 /**
  * @author qiao / https://github.com/qiao
  * @author mrdoob / http://mrdoob.com
