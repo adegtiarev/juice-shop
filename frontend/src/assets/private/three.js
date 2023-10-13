@@ -1,3 +1,23 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Project: http://beerpong.romaindauby.fr
+*    Release: https://github.com/r0mdau/beerpongjs/releases/tag/practice
+*    Source File: three.js
+*    
+*    Copyrights:
+*      (c) 2005, 2014 jquery foundation, inc. | jquery.org/license
+*    
+*    Licenses:
+*      Apache License 2.0
+*      SPDXId: Apache-2.0
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 /**
  * @author mrdoob / http://mrdoob.com/
  * @author Larry Battle / http://bateru.com/news
