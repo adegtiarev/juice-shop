@@ -1,3 +1,18 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Release: https://github.com/juice-shop/juice-shop/releases/tag/v7.5.1
+*    Source File: OrbitControls.js
+*    Licenses:
+*      Graphics Gems License
+*      SPDXId: xa0
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 /**
  * @author qiao / https://github.com/qiao
  * @author mrdoob / http://mrdoob.com
